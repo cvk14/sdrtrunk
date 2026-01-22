@@ -33,3 +33,6 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
+
+### MacOS template
+.DS_Store
